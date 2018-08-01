@@ -121,13 +121,4 @@ public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
     bgContent.setBackgroundColor(Color.argb(alpha, 25, 131, 209));
 }
 ```
-详细代码见  
-github地址：[https://github.com/taixiang/alihome](https://github.com/taixiang/alihome)  
 
-欢迎关注我的博客：[https://blog.manjiexiang.cn/](https://blog.manjiexiang.cn/)  
-更多精彩欢迎关注微信号：春风十里不如认识你  
-![image.png](https://upload-images.jianshu.io/upload_images/7569533-cfeb1f55473a2143.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
-
-有个「佛系码农圈」，欢迎大家加入畅聊，开心就好！  
-![](https://user-gold-cdn.xitu.io/2018/7/8/16478099583f8ec2?w=185&h=250&f=jpeg&s=35412)   
-过期了，可加我微信 tx467220125 拉你入群。
